@@ -4,3 +4,4 @@ Here I use frequentist and Bayesian analysis, rejection sampling with two differ
 
 The task was done as part of uni course. You are free to share and adapt the material for non-commercial purposes, with attribution.
 
+Used libraries: NumPy, SciPy, Matplotlib
